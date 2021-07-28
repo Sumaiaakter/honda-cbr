@@ -1,9 +1,19 @@
 .client{
-    color: orange;
+    color: orangered;
 }
 .name{
     color: blue;
 }
 .fa-star{
     color: orange;
+}
+#l{
+    text-decoration: none;
+    background-image: linear-gradient(orange, orangered);
+    border-radius: 4px;
+    padding: 4px;
+}
+#e{
+    color: white;
+    text-decoration: none;
 }
