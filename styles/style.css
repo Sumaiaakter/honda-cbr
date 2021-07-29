@@ -1,3 +1,11 @@
+
+.bg{
+    background-color: #264653;
+}
+.bike{
+    background: url(images/feature-bike.jpg);
+    mix-blend-mode: luminosity;
+}
 .client{
     color: orangered;
 }
