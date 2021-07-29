@@ -2,12 +2,15 @@
 .bg{
     background-color: #264653;
 }
+.text{
+    color: lightgray;
+}
 .bike{
     background: url(images/feature-bike.jpg);
     mix-blend-mode: luminosity;
 }
 .client{
-    color: orangered;
+    color: #E76F51;
 }
 .name{
     color: blue;
